@@ -363,3 +363,26 @@
   * [Материалы по теме](cikl-11/cikl-11-tema-66-data-plane-security-7.4/materialy-po-teme.md)
   * [Лабораторная по теме](cikl-11/cikl-11-tema-66-data-plane-security-7.4/laboratornaya-po-teme.md)
 
+## Цикл 12
+
+* [Цикл 12, Тема 67: OSPF Authentication](cikl-12/cikl-12-tema-67-ospf-authentication/README.md)
+  * [Вопросы по теме](cikl-12/cikl-12-tema-67-ospf-authentication/voprosy-po-teme.md)
+  * [Материалы по теме](cikl-12/cikl-12-tema-67-ospf-authentication/materialy-po-teme.md)
+  * [Лабораторная по теме](cikl-12/cikl-12-tema-67-ospf-authentication/laboratornaya-po-teme.md)
+* [Цикл 12, Тема 68: NAT 9.5](cikl-12/cikl-12-tema-68-nat-9.5/README.md)
+  * [Вопросы по теме](cikl-12/cikl-12-tema-68-nat-9.5/voprosy-po-teme.md)
+  * [Материалы по теме](cikl-12/cikl-12-tema-68-nat-9.5/materialy-po-teme.md)
+  * [Лабораторная по теме](cikl-12/cikl-12-tema-68-nat-9.5/laboratornaya-po-teme.md)
+* [Цикл 12, Тема 69: Miscellaneous EIGRP](cikl-12/cikl-12-tema-69-miscellaneous-eigrp/README.md)
+  * [Вопросы по теме](cikl-12/cikl-12-tema-69-miscellaneous-eigrp/voprosy-po-teme.md)
+  * [Материалы по теме](cikl-12/cikl-12-tema-69-miscellaneous-eigrp/materialy-po-teme.md)
+  * [Лабораторная по теме](cikl-12/cikl-12-tema-69-miscellaneous-eigrp/laboratornaya-po-teme.md)
+* [Цикл 12, Тема 70: IPsec LAN-to-LAN 4.2](cikl-12/cikl-12-tema-70-ipsec-lan-to-lan-4.2/README.md)
+  * [Вопросы по теме](cikl-12/cikl-12-tema-70-ipsec-lan-to-lan-4.2/voprosy-po-teme.md)
+  * [Материалы по теме](cikl-12/cikl-12-tema-70-ipsec-lan-to-lan-4.2/materialy-po-teme.md)
+  * [Лабораторная по теме](cikl-12/cikl-12-tema-70-ipsec-lan-to-lan-4.2/laboratornaya-po-teme.md)
+* [Цикл 12, Темы 71-72:Policy routing \(PBR\), Traffic Filtering with Policy-Based Routing](cikl-12/cikl-12-temy-71-72-policy-routing-pbr-traffic-filtering-with-policy-based-routing/README.md)
+  * [Вопросы по теме](cikl-12/cikl-12-temy-71-72-policy-routing-pbr-traffic-filtering-with-policy-based-routing/voprosy-po-teme.md)
+  * [Материалы по теме](cikl-12/cikl-12-temy-71-72-policy-routing-pbr-traffic-filtering-with-policy-based-routing/materialy-po-teme.md)
+  * [Лабораторная по теме](cikl-12/cikl-12-temy-71-72-policy-routing-pbr-traffic-filtering-with-policy-based-routing/laboratornaya-po-teme.md)
+
