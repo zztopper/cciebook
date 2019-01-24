@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 75:Route redistribution'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 75
 
 {% file src="../../.gitbook/assets/lab075.zip" caption="Начальная конфигурация" %}
 

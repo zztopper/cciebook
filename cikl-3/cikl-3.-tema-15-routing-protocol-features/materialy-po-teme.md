@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 15: Routing Protocol features'
 ---
 
-# Материалы по теме
+# Материалы по теме 15
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_pi/configuration/xe-3s/iri-xe-3s-book/iri-default-passive-interface.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_pi/configuration/xe-3s/iri-xe-3s-book/iri-default-passive-interface.html)  

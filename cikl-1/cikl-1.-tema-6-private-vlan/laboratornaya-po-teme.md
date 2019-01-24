@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 6: Private VLAN'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 6
 
 {% file src="../../.gitbook/assets/lab006.zip" caption="Начальная конфигурация" %}
 

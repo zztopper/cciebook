@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 60: Data Plane Security 7.4'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 60
 
 Тема: 7.4.9-7.4.12 NBAR, uRPF, TCP intercept
 

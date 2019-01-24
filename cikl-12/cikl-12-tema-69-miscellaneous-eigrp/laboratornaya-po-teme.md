@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 69:Miscellaneous EIGRP'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 69
 
 {% file src="../../.gitbook/assets/lab069.zip" caption="Начальная конфигурация" %}
 

@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 86: NVI, NAT Default Interface, Reversible NAT'
 ---
 
-# Материалы по теме
+# Материалы по теме 86
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr\_nat/configuration/15-mt/nat-15-mt-book/iadnat-rmap-outin.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_nat/configuration/15-mt/nat-15-mt-book/iadnat-rmap-outin.html)  

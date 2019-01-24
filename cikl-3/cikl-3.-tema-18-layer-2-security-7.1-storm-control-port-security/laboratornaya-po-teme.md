@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 18: Layer 2 Security 7.1, Storm Control, Port Security'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 18
 
 {% file src="../../.gitbook/assets/lab018.zip" caption="Начальная конфигурация" %}
 

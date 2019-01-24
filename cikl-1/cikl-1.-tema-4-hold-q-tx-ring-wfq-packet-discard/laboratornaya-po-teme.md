@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 4: Hold-Q, TX Ring, WFQ, Packet discard'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 4
 
 {% file src="../../.gitbook/assets/lab004.zip" caption="Начальная конфигурация" %}
 

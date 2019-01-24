@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 90: Establishing Peerings'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 90
 
 {% file src="../../.gitbook/assets/lab090.zip" caption="Начальная конфигурация" %}
 

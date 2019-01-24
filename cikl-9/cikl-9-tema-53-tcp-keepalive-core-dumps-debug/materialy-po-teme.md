@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 53: TCP keepalive, core dumps, debug'
 ---
 
-# Материалы по теме
+# Материалы по теме 53
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr19aa.html](http://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr19aa.html)  

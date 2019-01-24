@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 87:IGMP Timers, IGMP profiles, Multicast VLAN registration'
 ---
 
-# Материалы по теме
+# Материалы по теме 87
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti\_igmp/configuration/15-mt/imc-igmp-15-mt-book/imc\_constr\_sw\_eth\_nw.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti_igmp/configuration/15-mt/imc-igmp-15-mt-book/imc_constr_sw_eth_nw.html)  

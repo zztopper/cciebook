@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 73:OSPF Summarization'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 73
 
 {% file src="../../.gitbook/assets/lab073.zip" caption="Начальная конфигурация" %}
 

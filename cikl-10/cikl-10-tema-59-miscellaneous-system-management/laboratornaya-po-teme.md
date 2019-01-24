@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 59: Miscellaneous System Management'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 59
 
 {% file src="../../.gitbook/assets/lab059.zip" caption="Начальная конфигурация" %}
 

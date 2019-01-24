@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 86: NVI, NAT Default Interface, Reversible NAT'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 86
 
 Вопросы:
 

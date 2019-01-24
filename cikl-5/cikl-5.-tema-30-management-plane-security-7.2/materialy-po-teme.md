@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 30: Management Plane Security 7.2'
 ---
 
-# Материалы по теме
+# Материалы по теме 30
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios/12\_2/security/configuration/guide/fsecur\_c/scftplus.html\#wp1000899](http://www.cisco.com/c/en/us/td/docs/ios/12_2/security/configuration/guide/fsecur_c/scftplus.html#wp1000899)  

@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 78: Layer 2 Multicast 5.1'
 ---
 
-# Материалы по теме
+# Материалы по теме 78
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti/config\_library/15-mt/imc-15-mt-library.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti/config_library/15-mt/imc-15-mt-library.html)  

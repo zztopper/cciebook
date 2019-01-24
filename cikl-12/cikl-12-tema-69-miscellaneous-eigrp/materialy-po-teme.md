@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 69:Miscellaneous EIGRP'
 ---
 
-# Материалы по теме
+# Материалы по теме 69
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book.html)  

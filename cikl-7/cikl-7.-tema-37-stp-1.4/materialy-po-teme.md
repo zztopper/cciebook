@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 37: STP 1.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 37
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x\_3560x/software/release/15-2\_4\_e/configurationguide/b\_1524e\_consolidated\_3750x\_3560x\_cg/b\_1524e\_consolidated\_3750x\_3560x\_cg\_chapter\_01000000.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/15-2_4_e/configurationguide/b_1524e_consolidated_3750x_3560x_cg/b_1524e_consolidated_3750x_3560x_cg_chapter_01000000.html)

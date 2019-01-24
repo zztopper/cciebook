@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 2 : HDLC, PPP'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 2
 
 {% file src="../../.gitbook/assets/lab002.zip" caption="Начальная конфигурация" %}
 

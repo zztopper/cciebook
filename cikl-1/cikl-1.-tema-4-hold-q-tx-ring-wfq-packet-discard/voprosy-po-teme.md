@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 4: Hold-Q, TX Ring, WFQ, Packet discard'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 4
 
 Вопросы:  
 1. Дайте определение QOS.  

@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 67: OSPF Authentication'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 67
 
 {% file src="../../.gitbook/assets/lab067.zip" caption="Начальная конфигурация" %}
 

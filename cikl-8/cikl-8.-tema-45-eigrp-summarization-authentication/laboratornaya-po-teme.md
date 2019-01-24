@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 45: EIGRP Summarization, Authentication'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 45
 
 {% file src="../../.gitbook/assets/lab045.zip" caption="Начальная конфигурация" %}
 

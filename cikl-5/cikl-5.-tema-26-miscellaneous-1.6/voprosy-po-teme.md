@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 26: Miscellaneous 1.6'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 26
 
 Вопросы:  
 1. Дайте описание Fallback Bridging.  

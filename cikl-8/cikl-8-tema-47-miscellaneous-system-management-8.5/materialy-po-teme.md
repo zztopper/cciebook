@@ -2,7 +2,7 @@
 description: 'Цикл 8, Тема 47: Miscellaneous System Management 8.5'
 ---
 
-# Материалы по теме
+# Материалы по теме 47
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/fundamentals/configuration/15mt/fundamentals-15-mt-book/cf-autoinstall.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/fundamentals/configuration/15mt/fundamentals-15-mt-book/cf-autoinstall.html)  

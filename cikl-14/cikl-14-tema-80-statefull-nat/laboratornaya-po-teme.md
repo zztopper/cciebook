@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 80: Statefull NAT'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 80
 
 {% file src="../../.gitbook/assets/lab080.zip" caption="Начальная конфигурация" %}
 

@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 45: EIGRP Summarization, Authentication'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 45
 
 Вопросы:  
 1. Какие виды аутентификации использует EIGRP?  

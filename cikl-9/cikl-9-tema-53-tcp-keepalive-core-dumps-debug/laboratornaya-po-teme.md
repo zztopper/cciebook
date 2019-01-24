@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 53: TCP keepalive, core dumps, debug'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 53
 
 {% file src="../../.gitbook/assets/lab053.zip" caption="Начальная конфигурация" %}
 

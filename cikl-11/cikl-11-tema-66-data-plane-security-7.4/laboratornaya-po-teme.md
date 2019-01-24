@@ -2,7 +2,7 @@
 description: 'Цикл 11, Тема 66: Data Plane Security 7.4'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 66
 
 {% file src="../../.gitbook/assets/lab066.zip" caption="Начальная конфигурация" %}
 

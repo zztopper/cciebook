@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 95:Protocol Independent IPv6 Routing'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 95
 
 {% file src="../../.gitbook/assets/lab095.zip" caption="Начальная конфигурация" %}
 

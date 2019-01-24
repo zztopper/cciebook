@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 58: IPsec LAN-to-LAN'
 ---
 
-# Материалы по теме
+# Материалы по теме 58
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_conn\_dplane/configuration/15-mt/sec-ipsec-data-plane-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_conn_dplane/configuration/15-mt/sec-ipsec-data-plane-15-mt-book.html)  

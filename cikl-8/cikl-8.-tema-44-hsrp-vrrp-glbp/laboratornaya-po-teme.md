@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 44: HSRP, VRRP, GLBP'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 44
 
 {% file src="../../.gitbook/assets/lab044.zip" caption="Начальная конфигурация" %}
 

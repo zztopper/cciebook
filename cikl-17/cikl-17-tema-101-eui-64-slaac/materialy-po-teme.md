@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 101:EUI-64, SLAAC'
 ---
 
-# Материалы по теме
+# Материалы по теме 101
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipv6\_basic/configuration/15-mt/ip6b-15-mt-book/ip6-statlss-auto.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipv6_basic/configuration/15-mt/ip6b-15-mt-book/ip6-statlss-auto.html)

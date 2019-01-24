@@ -2,7 +2,7 @@
 description: 'Цикл 8, Тема 47: Miscellaneous System Management 8.5'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 47
 
 {% file src="../../.gitbook/assets/lab047.zip" caption="Начальная конфигурация" %}
 

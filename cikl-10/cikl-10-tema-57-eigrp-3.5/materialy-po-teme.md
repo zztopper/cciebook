@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 57: EIGRP 3.5'
 ---
 
-# Материалы по теме
+# Материалы по теме 57
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book.html)

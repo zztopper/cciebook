@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 81:IGMP snooping, proxy, filtering'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 81
 
 Вопросы:
 

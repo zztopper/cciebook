@@ -2,7 +2,7 @@
 description: 'Цикл 11, Тема 63: EIGRP Filtering'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 63
 
 {% file src="../../.gitbook/assets/lab063.zip" caption="Начальная конфигурация" %}
 

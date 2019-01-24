@@ -2,7 +2,7 @@
 description: 'Цикл 2. Тема 8 : PPP Multilink, PPPoE'
 ---
 
-# Материалы по теме
+# Материалы по теме 8
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/bbdsl/configuration/15-mt/bba-15-mt-book/bba-ppoe-client.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/bbdsl/configuration/15-mt/bba-15-mt-book/bba-ppoe-client.html)  

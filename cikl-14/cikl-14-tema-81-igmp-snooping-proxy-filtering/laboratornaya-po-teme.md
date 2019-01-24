@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 81:IGMP snooping, proxy, filtering'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 81
 
 {% file src="../../.gitbook/assets/lab081.zip" caption="Начальная конфигурация" %}
 

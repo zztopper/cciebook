@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 85: OSPF Filtering'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 85
 
 {% file src="../../.gitbook/assets/lab085.zip" caption="Начальная конфигурация" %}
 

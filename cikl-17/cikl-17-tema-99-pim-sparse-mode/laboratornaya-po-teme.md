@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 99: PIM Sparse Mode'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 99
 
 {% file src="../../.gitbook/assets/lab099.zip" caption="Начальная конфигурация" %}
 

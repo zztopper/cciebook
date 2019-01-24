@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 97: OSPF'
 ---
 
-# Материалы по теме
+# Материалы по теме 97
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/configuration/15-mt/iro-15-mt-book/iro-short-path.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-mt/iro-15-mt-book/iro-short-path.html)  

@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 27: RIPv2 3.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 27
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_rip/configuration/15-mt/irr-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_rip/configuration/15-mt/irr-15-mt-book.html)

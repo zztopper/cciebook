@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 5: Console, Telnet, SSH'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 5
 
 {% file src="../../.gitbook/assets/lab005.zip" caption="Начальная конфигурация" %}
 

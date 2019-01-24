@@ -2,7 +2,7 @@
 description: 'Цикл 11, Тема 64: IPsec LAN-to-LAN 4.2'
 ---
 
-# Материалы по теме
+# Материалы по теме 64
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_conn\_ikevpn/configuration/15-mt/sec-ike-for-ipsec-vpns-15-mt-book/sec-key-exch-ipsec.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_conn_ikevpn/configuration/15-mt/sec-ike-for-ipsec-vpns-15-mt-book/sec-key-exch-ipsec.html)  

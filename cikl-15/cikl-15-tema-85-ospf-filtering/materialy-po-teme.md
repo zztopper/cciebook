@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 85: OSPF Filtering'
 ---
 
-# Материалы по теме
+# Материалы по теме 85
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/configuration/15-mt/iro-15-mt-book/iro-abr-type-3.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-mt/iro-15-mt-book/iro-abr-type-3.html)  

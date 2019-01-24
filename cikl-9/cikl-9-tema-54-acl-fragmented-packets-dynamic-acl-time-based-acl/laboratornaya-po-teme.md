@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 54: ACL:Fragmented Packets, Dynamic ACL,Time-Based ACL'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 54
 
 {% file src="../../.gitbook/assets/lab054.zip" caption="Начальная конфигурация" %}
 

@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 94: QoS Pre-Classify'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 94
 
 {% file src="../../.gitbook/assets/lab094.zip" caption="Начальная конфигурация" %}
 

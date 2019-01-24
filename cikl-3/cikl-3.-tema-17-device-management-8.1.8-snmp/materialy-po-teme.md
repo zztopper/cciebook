@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 17: Device Management 8.1.8 SNMP'
 ---
 
-# Материалы по теме
+# Материалы по теме 17
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/net\_mgmt/config\_library/15-mt/netmgmt-15-mt-library.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/net_mgmt/config_library/15-mt/netmgmt-15-mt-library.html)  

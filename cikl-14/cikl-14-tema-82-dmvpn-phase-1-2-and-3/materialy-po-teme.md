@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 82:DMVPN Phase 1, 2, & 3'
 ---
 
-# Материалы по теме
+# Материалы по теме 82
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_conn\_dmvpn/configuration/15-mt/sec-conn-dmvpn-15-mt-book/sec-conn-dmvpn-dmvpn.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_conn_dmvpn/configuration/15-mt/sec-conn-dmvpn-15-mt-book/sec-conn-dmvpn-dmvpn.html)

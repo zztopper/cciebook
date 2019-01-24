@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 18: Layer 2 Security 7.1, Storm Control, Port Security'
 ---
 
-# Материалы по теме
+# Материалы по теме 18
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x\_3560x/software/release/15-0\_1\_se/configuration/guide/3750xcg/swtrafc.html\#pgfId-1038501](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/15-0_1_se/configuration/guide/3750xcg/swtrafc.html#pgfId-1038501)

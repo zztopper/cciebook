@@ -4,7 +4,7 @@ description: >-
   Errors
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 52
 
 {% file src="../../.gitbook/assets/lab052.zip" caption="Начальная конфигурация" %}
 

@@ -2,7 +2,7 @@
 description: 'Цикл 4. Тема 24: Layer 2 Security 7.1'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 24
 
 {% file src="../../.gitbook/assets/lab024.zip" caption="Начальная конфигурация" %}
 

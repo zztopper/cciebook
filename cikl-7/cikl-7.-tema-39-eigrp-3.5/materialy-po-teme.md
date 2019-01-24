@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 39: EIGRP 3.5'
 ---
 
-# Материалы по теме
+# Материалы по теме 39
 
 Ссылки на сайт [Cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book.html)

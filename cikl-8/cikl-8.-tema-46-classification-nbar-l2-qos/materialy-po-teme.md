@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 46: Classification NBAR, L2 QoS*'
 ---
 
-# Материалы по теме
+# Материалы по теме 46
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos\_nbar/configuration/15-mt/qos-nbar-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_nbar/configuration/15-mt/qos-nbar-15-mt-book.html)

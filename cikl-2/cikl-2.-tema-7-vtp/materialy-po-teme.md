@@ -2,7 +2,7 @@
 description: 'Цикл 2. Тема 7 : VTP'
 ---
 
-# Материалы по теме
+# Материалы по теме 7
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0\_1\_se/configuration/guide/scg\_3750/swvtp.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0_1_se/configuration/guide/scg_3750/swvtp.html)  

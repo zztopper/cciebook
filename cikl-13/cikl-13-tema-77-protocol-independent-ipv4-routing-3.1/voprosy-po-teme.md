@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 77: Protocol Independent IPv4 Routing 3.1'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 77
 
 Вопросы:
 

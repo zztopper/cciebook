@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 50: DHCP server, client, relay, pools'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 50
 
 Вопросы по теме:
 

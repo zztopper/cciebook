@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 43: OSPF 3.6'
 ---
 
-# Материалы по теме
+# Материалы по теме 43
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/configuration/15-mt/iro-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-mt/iro-15-mt-book.html)

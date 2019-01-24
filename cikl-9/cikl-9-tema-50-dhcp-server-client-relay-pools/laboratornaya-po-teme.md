@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 50: DHCP server, client, relay, pools'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 50
 
 {% file src="../../.gitbook/assets/lab050.zip" caption="Начальная конфигурация" %}
 

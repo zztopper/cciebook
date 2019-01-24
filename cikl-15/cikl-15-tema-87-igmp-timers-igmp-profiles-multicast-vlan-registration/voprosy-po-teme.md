@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 87:IGMP Timers, IGMP profiles, Multicast VLAN registration'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 87
 
 Вопросы:
 

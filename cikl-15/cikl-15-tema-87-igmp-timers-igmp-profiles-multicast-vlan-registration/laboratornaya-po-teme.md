@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 87:IGMP Timers, IGMP profiles, Multicast VLAN registration'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 87
 
 {% file src="../../.gitbook/assets/lab087.zip" caption="Начальная конфигурация" %}
 

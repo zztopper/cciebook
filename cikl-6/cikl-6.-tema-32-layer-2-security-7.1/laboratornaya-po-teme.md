@@ -2,7 +2,7 @@
 description: 'Цикл 6. Тема 32: Layer 2 Security 7.1'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 32
 
 {% file src="../../.gitbook/assets/lab032.zip" caption="Начальная конфигурация" %}
 

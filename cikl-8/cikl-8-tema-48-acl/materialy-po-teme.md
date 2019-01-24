@@ -2,7 +2,7 @@
 description: 'Цикл 8, Тема 48: ACL'
 ---
 
-# Материалы по теме
+# Материалы по теме 48
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_data\_acl/configuration/15-mt/sec-data-acl-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_data_acl/configuration/15-mt/sec-data-acl-15-mt-book.html)

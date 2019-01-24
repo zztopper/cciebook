@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 15: Routing Protocol features'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 15
 
 {% file src="../../.gitbook/assets/lab015.zip" caption="Начальная конфигурация" %}
 

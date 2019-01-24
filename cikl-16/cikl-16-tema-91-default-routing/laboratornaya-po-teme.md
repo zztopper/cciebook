@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 91: Default Routing'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 91
 
 {% file src="../../.gitbook/assets/lab091.zip" caption="Начальная конфигурация" %}
 

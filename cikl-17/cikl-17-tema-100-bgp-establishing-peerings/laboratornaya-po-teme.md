@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 100: BGP, Establishing Peerings'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 100
 
 {% file src="../../.gitbook/assets/lab100.zip" caption="Начальная конфигурация" %}
 

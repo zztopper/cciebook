@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 95:Protocol Independent IPv6 Routing'
 ---
 
-# Материалы по теме
+# Материалы по теме 95
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipv6/config\_library/15-mt/ipv6-15-mt-library.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipv6/config_library/15-mt/ipv6-15-mt-library.html)

@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 44: HSRP, VRRP, GLBP'
 ---
 
-# Материалы по теме
+# Материалы по теме 44
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipapp\_fhrp/configuration/15-mt/fhp-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipapp_fhrp/configuration/15-mt/fhp-15-mt-book.html)

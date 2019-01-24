@@ -2,7 +2,7 @@
 description: 'Цикл 6. Тема 36: Management Plane Security 7.2'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 36
 
 {% file src="../../.gitbook/assets/lab036.zip" caption="Начальная конфигурация" %}
 

@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 81:IGMP snooping, proxy, filtering'
 ---
 
-# Материалы по теме
+# Материалы по теме 81
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti\_igmp/configuration/15-mt/imc-igmp-15-mt-book/imc\_customizing\_igmp.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti_igmp/configuration/15-mt/imc-igmp-15-mt-book/imc_customizing_igmp.html)

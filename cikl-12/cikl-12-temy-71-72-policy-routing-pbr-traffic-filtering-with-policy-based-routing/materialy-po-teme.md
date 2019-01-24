@@ -4,7 +4,7 @@ description: >-
   Routing
 ---
 
-# Материалы по теме
+# Материалы по теме 71
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_pi/configuration/15-mt/iri-15-mt-book/iri-pbr.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_pi/configuration/15-mt/iri-15-mt-book/iri-pbr.html)  

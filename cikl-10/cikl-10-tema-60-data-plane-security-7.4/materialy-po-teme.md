@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 60: Data Plane Security 7.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 60
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_data\_urpf/configuration/15-mt/sec-data-urpf-15-mt-book/cfg-unicast-rpf.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_data_urpf/configuration/15-mt/sec-data-urpf-15-mt-book/cfg-unicast-rpf.html)

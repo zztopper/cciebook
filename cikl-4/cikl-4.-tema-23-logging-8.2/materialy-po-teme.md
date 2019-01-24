@@ -2,7 +2,7 @@
 description: 'Цикл 4. Тема 23: Logging 8.2'
 ---
 
-# Материалы по теме
+# Материалы по теме 23
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/config-mgmt/configuration/15mt/config-mgmt-15-mt-book/cm-config-logger.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/config-mgmt/configuration/15mt/config-mgmt-15-mt-book/cm-config-logger.html)  

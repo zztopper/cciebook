@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 54: ACL:Fragmented Packets, Dynamic ACL,Time-Based ACL'
 ---
 
-# Материалы по теме
+# Материалы по теме 54
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_data\_acl/configuration/15-mt/sec-data-acl-15-mt-book/sec-refine-ip-al.html\#GUID-66183B26-57F5-48E8-A077-80681D848AE3](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_data_acl/configuration/15-mt/sec-data-acl-15-mt-book/sec-refine-ip-al.html#GUID-66183B26-57F5-48E8-A077-80681D848AE3)  

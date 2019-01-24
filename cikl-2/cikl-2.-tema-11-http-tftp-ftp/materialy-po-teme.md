@@ -2,7 +2,7 @@
 description: 'Цикл 2. Тема 11 : HTTP, TFTP, FTP'
 ---
 
-# Материалы по теме
+# Материалы по теме 11
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sys-image-mgmt/configuration/15-mt/sysimgmgmt-15-mt-book/sysimgmgmt-imgs.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sys-image-mgmt/configuration/15-mt/sysimgmgmt-15-mt-book/sysimgmgmt-imgs.html)  

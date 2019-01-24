@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 92: Static extendable NAT, NAT ALG'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 92
 
 {% file src="../../.gitbook/assets/lab092.zip" caption="Начальная конфигурация" %}
 

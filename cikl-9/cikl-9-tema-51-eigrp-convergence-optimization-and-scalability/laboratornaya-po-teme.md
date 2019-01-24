@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 51: EIGRP Convergence Optimization & Scalability'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 51
 
 {% file src="../../.gitbook/assets/lab051.zip" caption="Начальная конфигурация" %}
 

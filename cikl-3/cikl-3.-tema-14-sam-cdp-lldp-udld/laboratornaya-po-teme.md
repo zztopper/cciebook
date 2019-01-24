@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 14 : СAM, CDP, LLDP, UDLD'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 14
 
 {% file src="../../.gitbook/assets/lab014.zip" caption="Начальная конфигурация" %}
 

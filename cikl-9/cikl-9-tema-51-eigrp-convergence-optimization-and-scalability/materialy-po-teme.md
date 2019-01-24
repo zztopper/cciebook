@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 51: EIGRP Convergence Optimization & Scalability'
 ---
 
-# Материалы по теме
+# Материалы по теме 51
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book.html)

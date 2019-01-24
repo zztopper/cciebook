@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 94: QoS Pre-Classify'
 ---
 
-# Материалы по теме
+# Материалы по теме 94
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos\_classn/configuration/15-mt/qos-classn-15-mt-book/qos-classn-vpn.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_classn/configuration/15-mt/qos-classn-15-mt-book/qos-classn-vpn.html)

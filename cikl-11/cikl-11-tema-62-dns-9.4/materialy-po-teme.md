@@ -2,7 +2,7 @@
 description: 'Цикл 11, Тема 62: DNS 9.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 62
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr\_dns/configuration/15-mt/dns-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_dns/configuration/15-mt/dns-15-mt-book.html)

@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 41: EEM 8.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 41
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/eem/configuration/15-mt/eem-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/eem/configuration/15-mt/eem-15-mt-book.html)

@@ -4,7 +4,7 @@ description: >-
   Routing
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 71
 
 {% file src="../../.gitbook/assets/lab071.zip" caption="Начальная конфигурация" %}
 

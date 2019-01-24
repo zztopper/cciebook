@@ -2,7 +2,7 @@
 description: 'Цикл 11, Тема 65: Protocol Independent IPv4 Routing 3.1'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 65
 
 {% file src="../../.gitbook/assets/lab065.zip" caption="Начальная конфигурация" %}
 

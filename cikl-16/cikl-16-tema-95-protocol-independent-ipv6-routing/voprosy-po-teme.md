@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 95:Protocol Independent IPv6 Routing'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 95
 
 Вопросы:
 

@@ -2,7 +2,7 @@
 description: 'Цикл 15, Тема 86: NVI, NAT Default Interface, Reversible NAT'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 86
 
 {% file src="../../.gitbook/assets/lab086.zip" caption="Начальная конфигурация" %}
 

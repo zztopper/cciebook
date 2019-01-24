@@ -2,7 +2,7 @@
 description: 'Материалы по Циклу 1, Теме 1. VLAN, trunking 1.1'
 ---
 
-# Материалы по теме
+# Материалы по теме 1
 
 Ссылки на сайт www.cisco.com:  
 [http://cisco.com/c/en/us/tech/lan-switching/vlan/index.html](http://www.cisco.com/c/en/us/tech/lan-switching/vlan/index.html)

@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 42: Control Plane Security 7.3'
 ---
 
-# Материалы по теме
+# Материалы по теме 42
 
 Ссылки на сайт [Cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios/12\_2sb/feature/guide/cpp.html](http://www.cisco.com/c/en/us/td/docs/ios/12_2sb/feature/guide/cpp.html)  

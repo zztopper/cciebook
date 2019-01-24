@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 15: Routing Protocol features'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 15
 
 Вопросы:  
 1. Дайте понятие о passive interface.  

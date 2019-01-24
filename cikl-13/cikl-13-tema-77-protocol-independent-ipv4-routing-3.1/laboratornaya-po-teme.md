@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 77: Protocol Independent IPv4 Routing 3.1'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 77
 
 {% file src="../../.gitbook/assets/lab077.zip" caption="Начальная конфигурация" %}
 

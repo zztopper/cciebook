@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 53: TCP keepalive, core dumps, debug'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 53
 
 Вопросы:
 

@@ -2,7 +2,7 @@
 description: 'Цикл 14, Тема 80: Statefull NAT'
 ---
 
-# Материалы по теме
+# Материалы по теме 80
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/13774-3.html](http://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/13774-3.html)

@@ -2,7 +2,7 @@
 description: 'Цикл 9, Тема 50: DHCP server, client, relay, pools'
 ---
 
-# Материалы по теме
+# Материалы по теме 50
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr\_dhcp/configuration/15-mt/dhcp-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_dhcp/configuration/15-mt/dhcp-15-mt-book.html)

@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 59: Miscellaneous System Management'
 ---
 
-# Материалы по теме
+# Материалы по теме 59
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/support/docs/routers/10000-series-routers/15091-buffertuning.html](http://www.cisco.com/c/en/us/support/docs/routers/10000-series-routers/15091-buffertuning.html)  

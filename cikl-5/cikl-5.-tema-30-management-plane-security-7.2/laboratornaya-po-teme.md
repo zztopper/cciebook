@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 30: Management Plane Security 7.2'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 30
 
 {% file src="../../.gitbook/assets/lab030 \(1\).zip" caption="Начальная конфигурация" %}
 

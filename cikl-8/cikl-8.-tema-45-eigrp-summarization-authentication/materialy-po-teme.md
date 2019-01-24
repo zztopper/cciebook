@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 45: EIGRP Summarization, Authentication'
 ---
 
-# Материалы по теме
+# Материалы по теме 45
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book/ire-rte-auth.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book/ire-rte-auth.html)  

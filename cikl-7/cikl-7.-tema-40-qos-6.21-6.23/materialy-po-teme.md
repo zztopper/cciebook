@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 40: QoS 6.21,6.23'
 ---
 
-# Материалы по теме
+# Материалы по теме 40
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos\_hdrcomp/configuration/15-mt/qos-hdrcomp-15-mt-book/header-compression.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_hdrcomp/configuration/15-mt/qos-hdrcomp-15-mt-book/header-compression.html)

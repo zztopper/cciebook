@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 18: Layer 2 Security 7.1, Storm Control, Port Security'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 18
 
 Вопросы:  
 1. По какому принципу работает port-security?  

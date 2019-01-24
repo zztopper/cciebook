@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 100: BGP, Establishing Peerings'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 100
 
 Вопросы:
 

@@ -4,7 +4,7 @@ description: >-
   Hellos
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 55
 
 {% file src="../../.gitbook/assets/lab055.zip" caption="Начальная конфигурация" %}
 

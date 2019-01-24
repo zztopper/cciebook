@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 68: NAT 9.5'
 ---
 
-# Материалы по теме
+# Материалы по теме 68
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr\_nat/configuration/15-mt/nat-15-mt-book.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_nat/configuration/15-mt/nat-15-mt-book.html)

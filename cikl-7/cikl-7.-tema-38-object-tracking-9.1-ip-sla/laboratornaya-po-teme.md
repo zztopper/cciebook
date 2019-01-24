@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 38: Object Tracking 9.1, IP SLA'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 38
 
 {% file src="../../.gitbook/assets/lab038.zip" caption="Начальная конфигурация" %}
 

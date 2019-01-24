@@ -2,7 +2,7 @@
 description: 'Цикл 4. Тема 20: Miscellaneous 1.6'
 ---
 
-# Материалы по теме
+# Материалы по теме 20
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0\_1\_se/configuration/guide/scg\_3750/swspan.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0_1_se/configuration/guide/scg_3750/swspan.html)  

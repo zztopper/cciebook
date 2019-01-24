@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 75:Route redistribution'
 ---
 
-# Материалы по теме
+# Материалы по теме 75
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_eigrp/configuration/15-mt/ire-15-mt-book/ire-enhanced-igrp.html\#GUID-1D5F3B6E-B89A-497A-BBC4-98C4A4E21CE7](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_eigrp/configuration/15-mt/ire-15-mt-book/ire-enhanced-igrp.html#GUID-1D5F3B6E-B89A-497A-BBC4-98C4A4E21CE7)  

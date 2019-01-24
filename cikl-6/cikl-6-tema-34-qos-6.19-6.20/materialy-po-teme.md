@@ -2,7 +2,7 @@
 description: 'Цикл 6, Тема 34: QoS 6.19-6.20'
 ---
 
-# Материалы по теме
+# Материалы по теме 34
 
 Как найти документ:  
 Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&T→ IOS 15.5M&T → Cisco IOS Software Release 15.5\(3\)M → QoS: Policing and Shaping Configuration Guide, Cisco IOS Release 15M&T

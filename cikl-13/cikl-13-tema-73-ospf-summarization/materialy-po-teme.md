@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 73:OSPF Summarization'
 ---
 
-# Материалы по теме
+# Материалы по теме 73
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/configuration/15-mt/iro-15-mt-book/iro-cfg.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-mt/iro-15-mt-book/iro-cfg.html)  

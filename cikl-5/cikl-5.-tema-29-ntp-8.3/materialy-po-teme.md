@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 29: NTP 8.3'
 ---
 
-# Материалы по теме
+# Материалы по теме 29
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/5\_x/nx-os/system\_management/configuration/guide/sm\_nx\_os\_cg/sm\_3ntp.html](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/system-management/guide/b_Cisco_Nexus_7000_Series_NX-OS_System_Management_Configuration_Guide-RI/configuring_ntp.html)

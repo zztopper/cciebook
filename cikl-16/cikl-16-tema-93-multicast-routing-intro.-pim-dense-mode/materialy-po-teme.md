@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 93: Multicast routing intro. PIM Dense Mode'
 ---
 
-# Материалы по теме
+# Материалы по теме 93
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti\_pim/configuration/15-mt/imc-pim-15-mt-book/imc\_basic\_cfg.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti_pim/configuration/15-mt/imc-pim-15-mt-book/imc_basic_cfg.html)

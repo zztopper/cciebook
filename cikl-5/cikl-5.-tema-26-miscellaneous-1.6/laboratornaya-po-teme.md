@@ -2,7 +2,7 @@
 description: 'Цикл 5. Тема 26: Miscellaneous 1.6'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 26
 
 {% file src="../../.gitbook/assets/lab026.zip" caption="Начальная конфигурация" %}
 

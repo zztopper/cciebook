@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 2 : HDLC, PPP'
 ---
 
-# Материалы по теме
+# Материалы по теме 2
 
 Ссылки на сайт www.cisco.com:  
 [http://cisco.com/c/en/us/td/docs/ios/dial/configuration/guide/12\_4/dia\_12\_4\_book/dia\_media-ind\_multi\_ppp.html](http://cisco.com/c/en/us/td/docs/ios/dial/configuration/guide/12_4/dia_12_4_book/dia_media-ind_multi_ppp.html)

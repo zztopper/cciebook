@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 76: DMVPN. Single Hub, NHRP'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 76
 
 {% file src="../../.gitbook/assets/lab076.zip" caption="Начальная конфигурация" %}
 

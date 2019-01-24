@@ -2,7 +2,7 @@
 description: 'Цикл 2. Тема 9 : Static routing'
 ---
 
-# Материалы по теме
+# Материалы по теме 9
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_pi/configuration/15-mt/iri-15-mt-book/iri-iprouting.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_pi/configuration/15-mt/iri-15-mt-book/iri-iprouting.html)  

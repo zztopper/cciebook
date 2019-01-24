@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 70: IPsec LAN-to-LAN 4.2'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 70
 
 {% file src="../../.gitbook/assets/lab070.zip" caption="Начальная конфигурация" %}
 

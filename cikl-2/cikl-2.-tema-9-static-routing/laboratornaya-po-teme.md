@@ -2,7 +2,7 @@
 description: 'Цикл 2. Тема 9 : Static routing'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 9
 
 {% file src="../../.gitbook/assets/lab009.zip" caption="Начальная конфигурация" %}
 

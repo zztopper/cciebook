@@ -2,7 +2,7 @@
 description: 'Цикл 13, Тема 78: Layer 2 Multicast 5.1'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 78
 
 {% file src="../../.gitbook/assets/lab078.zip" caption="Начальная конфигурация" %}
 

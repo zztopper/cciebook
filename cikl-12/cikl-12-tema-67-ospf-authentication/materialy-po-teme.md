@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 67: OSPF Authentication'
 ---
 
-# Материалы по теме
+# Материалы по теме 67
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/configuration/15-mt/iro-15-mt-book/iro-cfg.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/15-mt/iro-15-mt-book/iro-cfg.html)  

@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 59: Miscellaneous System Management'
 ---
 
-# Вопросы по теме
+# Вопросы по теме 59
 
 Вопросы:
 

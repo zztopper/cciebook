@@ -2,7 +2,7 @@
 description: 'Цикл 4. Тема 21: RIPv2 3.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 21
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_rip/command/irr-cr-book/irr-cr-rip.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_rip/command/irr-cr-book/irr-cr-rip.html)  

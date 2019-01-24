@@ -2,7 +2,7 @@
 description: 'Цикл 8. Тема 46: Classification NBAR, L2 QoS*'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 46
 
 {% file src="../../.gitbook/assets/lab046.zip" caption="Начальная конфигурация" %}
 

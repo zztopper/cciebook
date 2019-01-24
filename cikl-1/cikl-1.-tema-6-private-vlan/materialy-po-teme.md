@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 6: Private VLAN'
 ---
 
-# Материалы по теме
+# Материалы по теме 6
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x\_3560x/software/release/15-0\_1\_se/configuration/guide/3750xcg/swtrafc.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/15-0_1_se/configuration/guide/3750xcg/swtrafc.html)  

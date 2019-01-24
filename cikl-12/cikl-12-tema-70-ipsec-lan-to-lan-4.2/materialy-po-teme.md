@@ -2,7 +2,7 @@
 description: 'Цикл 12, Тема 70: IPsec LAN-to-LAN 4.2'
 ---
 
-# Материалы по теме
+# Материалы по теме 70
 
 Ссылки на www.cicso.com:  
 [http://www.cisco.com/c/dam/en/us/products/collateral/security/group-encrypted-transport-vpn/GETVPN\_DIG\_version\_1\_0\_External.pdf](http://www.cisco.com/c/dam/en/us/products/collateral/security/group-encrypted-transport-vpn/GETVPN_DIG_version_1_0_External.pdf)  

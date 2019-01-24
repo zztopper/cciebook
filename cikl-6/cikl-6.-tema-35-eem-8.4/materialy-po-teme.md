@@ -2,7 +2,7 @@
 description: 'Цикл 6. Тема 35: EEM 8.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 35
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/cns/configuration/15-mt/cns-15-mt-book/cns-cmd-sched.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/cns/configuration/15-mt/cns-15-mt-book/cns-cmd-sched.html)  

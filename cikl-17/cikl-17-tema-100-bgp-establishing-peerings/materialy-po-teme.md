@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 100: BGP, Establishing Peerings'
 ---
 
-# Материалы по теме
+# Материалы по теме 100
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_bgp/configuration/15-mt/irg-15-mt-book/irg-dynamic-neighbor.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_bgp/configuration/15-mt/irg-15-mt-book/irg-dynamic-neighbor.html)

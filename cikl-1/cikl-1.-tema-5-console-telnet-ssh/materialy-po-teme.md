@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 5: Console, Telnet, SSH'
 ---
 
-# Материалы по теме
+# Материалы по теме 5
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_usr\_ssh/configuration/15-mt/sec-usr-ssh-15-mt-book/sec-usr-ssh-sec-shell.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_usr_ssh/configuration/15-mt/sec-usr-ssh-15-mt-book/sec-usr-ssh-sec-shell.html)

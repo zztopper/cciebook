@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 93: Multicast routing intro. PIM Dense Mode'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 93
 
 {% file src="../../.gitbook/assets/lab093.zip" caption="Начальная конфигурация" %}
 

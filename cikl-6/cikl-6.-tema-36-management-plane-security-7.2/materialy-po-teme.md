@@ -2,7 +2,7 @@
 description: 'Цикл 6. Тема 36: Management Plane Security 7.2'
 ---
 
-# Материалы по теме
+# Материалы по теме 36
 
 Ссылки на сайт [Cisco](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec\_usr\_cfg/configuration/15-mt/sec-usr-cfg-15-mt-book/sec-role-base-cli.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_usr_cfg/configuration/15-mt/sec-usr-cfg-15-mt-book/sec-role-base-cli.html)  

@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 13 : EtherChannel'
 ---
 
-# Материалы по теме
+# Материалы по теме 13
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x\_3560x/software/release/15-0\_2\_se/configuration/guide/3750x\_cg/swethchl.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/15-0_2_se/configuration/guide/3750x_cg/swethchl.html)

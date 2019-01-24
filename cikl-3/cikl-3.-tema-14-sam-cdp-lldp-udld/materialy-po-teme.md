@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 14 : СAM, CDP, LLDP, UDLD'
 ---
 
-# Материалы по теме
+# Материалы по теме 14
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios/lanswitch/command/reference/lsw\_book/lsw\_m1.html](http://www.cisco.com/c/en/us/td/docs/ios/lanswitch/command/reference/lsw_book/lsw_m1.html)  

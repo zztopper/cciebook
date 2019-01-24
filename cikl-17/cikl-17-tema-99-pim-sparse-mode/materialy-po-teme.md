@@ -2,7 +2,7 @@
 description: 'Цикл 17, Тема 99: PIM Sparse Mode'
 ---
 
-# Материалы по теме
+# Материалы по теме 99
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti\_pim/configuration/15-mt/imc-pim-15-mt-book/imc\_basic\_cfg.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipmulti_pim/configuration/15-mt/imc-pim-15-mt-book/imc_basic_cfg.html)

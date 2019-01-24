@@ -2,7 +2,7 @@
 description: 'Цикл 3. Тема 16: QoS 6.7-6.10'
 ---
 
-# Материалы по теме
+# Материалы по теме 16
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos/config\_library/15-mt/qos-15-mt-library.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos/config_library/15-mt/qos-15-mt-library.html)  

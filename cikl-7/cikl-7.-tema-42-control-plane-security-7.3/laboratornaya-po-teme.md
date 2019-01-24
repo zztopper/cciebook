@@ -2,7 +2,7 @@
 description: 'Цикл 7. Тема 42: Control Plane Security 7.3'
 ---
 
-# Лабораторная по теме
+# Лабораторная по теме 42
 
 {% file src="../../.gitbook/assets/lab042.zip" caption="Начальная конфигурация" %}
 

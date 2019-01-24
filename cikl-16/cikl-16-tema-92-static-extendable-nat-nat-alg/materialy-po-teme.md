@@ -2,7 +2,7 @@
 description: 'Цикл 16, Тема 92: Static extendable NAT, NAT ALG'
 ---
 
-# Материалы по теме
+# Материалы по теме 92
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):
 

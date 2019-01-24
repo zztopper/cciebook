@@ -2,7 +2,7 @@
 description: 'Цикл 1. Тема 3: Routing general'
 ---
 
-# Материалы по теме
+# Материалы по теме 3
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/support/docs/ip/interior-gateway-routing-protocol-igrp/26825-5.html](http://www.cisco.com/c/en/us/support/docs/ip/interior-gateway-routing-protocol-igrp/26825-5.html)  

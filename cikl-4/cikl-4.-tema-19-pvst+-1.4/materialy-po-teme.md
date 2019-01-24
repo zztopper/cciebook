@@ -2,7 +2,7 @@
 description: 'Цикл 4. Тема 19: PVST+ 1.4'
 ---
 
-# Материалы по теме
+# Материалы по теме 19
 
 Ссылки на сайт [www.cisco.com](http://www.cisco.com/):  
 ****[http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0\_1\_se/configuration/guide/scg\_3750/swstp.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0_1_se/configuration/guide/scg_3750/swstp.html)
