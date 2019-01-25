@@ -700,3 +700,33 @@
   * [Вопросы по теме 144](cikl-24/cikl-24-tema-144-ipv6-bgp/voprosy-po-teme-144.md)
   * [Материалы по теме 144](cikl-24/cikl-24-tema-144-ipv6-bgp/materialy-po-teme-144.md)
 
+## Цикл 25
+
+* [Цикл 25, Тема 145: IPv4 Multicast Routing](cikl-25/cikl-25-tema-145-ipv4-multicast-routing/README.md)
+  * [Вопросы по теме 145](cikl-25/cikl-25-tema-145-ipv4-multicast-routing/voprosy-po-teme-145.md)
+  * [Материалы по теме 145](cikl-25/cikl-25-tema-145-ipv4-multicast-routing/materialy-po-teme-145.md)
+* [Цикл 25, Тема 146: Protocol Independent IPv6 Routing](cikl-25/cikl-25-tema-146-protocol-independent-ipv6-routing/README.md)
+  * [Вопросы по теме 146](cikl-25/cikl-25-tema-146-protocol-independent-ipv6-routing/voprosy-po-teme-146.md)
+  * [Материалы по теме 146](cikl-25/cikl-25-tema-146-protocol-independent-ipv6-routing/materialy-po-teme-146.md)
+* [Цикл 25, Тема 147: Protocol Independent IPv6 Routing](cikl-25/cikl-25-tema-147-protocol-independent-ipv6-routing/README.md)
+  * [Вопросы по теме 147](cikl-25/cikl-25-tema-147-protocol-independent-ipv6-routing/voprosy-po-teme-147.md)
+  * [Материалы по теме 147](cikl-25/cikl-25-tema-147-protocol-independent-ipv6-routing/materialy-po-teme-147.md)
+* [Цикл 25, Тема 148: Protocol Independent IPv6 Routing](cikl-25/cikl-25-tema-148-protocol-independent-ipv6-routing/README.md)
+  * [Вопросы по теме 148](cikl-25/cikl-25-tema-148-protocol-independent-ipv6-routing/voprosy-po-teme-148.md)
+  * [Материалы по теме 148](cikl-25/cikl-25-tema-148-protocol-independent-ipv6-routing/materialy-po-teme-148.md)
+* [Цикл 25, Тема 149: Route Redistribution](cikl-25/cikl-25-tema-149-route-redistribution/README.md)
+  * [Вопросы по теме 149](cikl-25/cikl-25-tema-149-route-redistribution/voprosy-po-teme-149.md)
+  * [Материалы по теме 149](cikl-25/cikl-25-tema-149-route-redistribution/materialy-po-teme-149.md)
+* [Цикл 25, Тема 150: Cloud](cikl-25/cikl-25-tema-150-cloud/README.md)
+  * [Вопросы по теме 150](cikl-25/cikl-25-tema-150-cloud/voprosy-po-teme-150.md)
+  * [Материалы по теме 150](cikl-25/cikl-25-tema-150-cloud/materialy-po-teme-150.md)
+
+## Цикл 26
+
+* [Цикл 26, Тема 151: Network programmability \[SDN\]](cikl-26/cikl-26-tema-151-network-programmability-sdn/README.md)
+  * [Вопросы по теме 151](cikl-26/cikl-26-tema-151-network-programmability-sdn/voprosy-po-teme-151.md)
+  * [Материалы по теме 151](cikl-26/cikl-26-tema-151-network-programmability-sdn/materialy-po-teme-151.md)
+* [Цикл 26, Тема 152: Internet of Things](cikl-26/cikl-26-tema-152-internet-of-things/README.md)
+  * [Вопросы по теме 152](cikl-26/cikl-26-tema-152-internet-of-things/voprosy-po-teme-152.md)
+  * [Материалы по теме 152](cikl-26/cikl-26-tema-152-internet-of-things/materialy-po-teme-152.md)
+
