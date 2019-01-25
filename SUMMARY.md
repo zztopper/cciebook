@@ -679,3 +679,24 @@
   * [Вопросы по теме 138](cikl-23/cikl-23-tema-138-bgp/voprosy-po-teme-138.md)
   * [Материалы по теме 138](cikl-23/cikl-23-tema-138-bgp/materialy-po-teme-138.md)
 
+## Цикл 24
+
+* [Цикл 24, Тема 139: MPLS](cikl-24/cikl-24-tema-139-mpls/README.md)
+  * [Вопросы по теме 139](cikl-24/cikl-24-tema-139-mpls/voprosy-po-teme-139.md)
+  * [Материалы по теме 139](cikl-24/cikl-24-tema-139-mpls/materialy-po-teme-139.md)
+* [Цикл 24, Тема 140: BGP](cikl-24/cikl-24-tema-140-bgp/README.md)
+  * [Вопросы по теме 140](cikl-24/cikl-24-tema-140-bgp/voprosy-po-teme-140.md)
+  * [Материалы по теме 140](cikl-24/cikl-24-tema-140-bgp/materialy-po-teme-140.md)
+* [Цикл 24, Тема 141: IPv4 Multicast Routing](cikl-24/cikl-24-tema-141-ipv4-multicast-routing/README.md)
+  * [Вопросы по теме 141](cikl-24/cikl-24-tema-141-ipv4-multicast-routing/voprosy-po-teme-141.md)
+  * [Материалы по теме 141](cikl-24/cikl-24-tema-141-ipv4-multicast-routing/materialy-po-teme-141.md)
+* [Цикл 24, Тема 142: IPv6 Multicast Routing](cikl-24/cikl-24-tema-142-ipv6-multicast-routing/README.md)
+  * [Вопросы по теме 142](cikl-24/cikl-24-tema-142-ipv6-multicast-routing/voprosy-po-teme-142.md)
+  * [Материалы по теме 142](cikl-24/cikl-24-tema-142-ipv6-multicast-routing/materialy-po-teme-142.md)
+* [Цикл 24, Тема 143: Protocol Independent IPv6 Routing](cikl-24/cikl-24-tema-143-protocol-independent-ipv6-routing/README.md)
+  * [Вопросы по теме 143](cikl-24/cikl-24-tema-143-protocol-independent-ipv6-routing/voprosy-po-teme-143.md)
+  * [Материалы по теме 143](cikl-24/cikl-24-tema-143-protocol-independent-ipv6-routing/materialy-po-teme-143.md)
+* [Цикл 24, Тема 144: IPv6 BGP](cikl-24/cikl-24-tema-144-ipv6-bgp/README.md)
+  * [Вопросы по теме 144](cikl-24/cikl-24-tema-144-ipv6-bgp/voprosy-po-teme-144.md)
+  * [Материалы по теме 144](cikl-24/cikl-24-tema-144-ipv6-bgp/materialy-po-teme-144.md)
+
