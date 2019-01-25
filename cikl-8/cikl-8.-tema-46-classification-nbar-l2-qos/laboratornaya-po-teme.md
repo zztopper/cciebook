@@ -31,9 +31,7 @@ description: 'Цикл 8. Тема 46: Classification NBAR, L2 QoS*'
    4. Применить на multilink1
 5. На R10 дропать все IP пакеты с опциями. Нельзя использовать MQC/ACL.
 
-При необходимости использовать extended ACL, нужно использовать нумерованный ACL, где номер ACL равен RIP holddown timer.  
-  
-
+При необходимости использовать extended ACL, нужно использовать нумерованный ACL, где номер ACL равен RIP holddown timer.
 
 {% file src="../../.gitbook/assets/lab046\_answers.zip" caption="Конечная конфигурация" %}
 

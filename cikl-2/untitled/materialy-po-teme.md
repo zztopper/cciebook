@@ -1,8 +1,4 @@
----
-description: 'Цикл 2. Тема 12 : ACL (VACL, Port ACL)'
----
-
-# Материалы по теме
+# Материалы по теме 12
 
 Ссылки на сайт www.cisco.com:  
 [http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x\_3560x/software/release/15-0\_2\_se/configuration/guide/3750x\_cg/swacl.html](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750x_3560x/software/release/15-0_2_se/configuration/guide/3750x_cg/swacl.html)

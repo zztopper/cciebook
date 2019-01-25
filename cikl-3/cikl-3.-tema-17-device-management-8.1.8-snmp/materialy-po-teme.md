@@ -19,7 +19,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, SNMP
 
 Ссылка на другие ресурсы:  
 [https://www.youtube.com/watch?v=tg47MZdtcAE](https://www.youtube.com/watch?v=tg47MZdtcAE)  
-[http://blog.ine.com/2008/07/19/snmpv3-tutorial/](http://blog.ine.com/2008/07/19/snmpv3-tutorial/)  
-  
-
+[http://blog.ine.com/2008/07/19/snmpv3-tutorial/](http://blog.ine.com/2008/07/19/snmpv3-tutorial/)
 

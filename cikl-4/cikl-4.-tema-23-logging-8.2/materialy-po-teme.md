@@ -18,6 +18,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide Vol 1, Chapter 5: IP Service
 [http://goo.gl/8GJM77](http://goo.gl/8GJM77)
 
 Ссылка на другие ресурсы:  
-[https://www.youtube.com/watch?v=MndGIW5-P4A](https://www.youtube.com/watch?v=MndGIW5-P4A)  
-
+[https://www.youtube.com/watch?v=MndGIW5-P4A](https://www.youtube.com/watch?v=MndGIW5-P4A)
 

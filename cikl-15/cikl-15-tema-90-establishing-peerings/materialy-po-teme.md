@@ -14,5 +14,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 Routing TCP/IP, Volume II: CCIE Professional Development, Second Edition, Chapter 2 Introdution to BGP.
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/BGP\_%D0%B2\_Cisco](http://xgu.ru/wiki/BGP_%D0%B2_Cisco)
+[http://xgu.ru/wiki/BGP\_%D0%B2\_Cisco](http://xgu.ru/wiki/BGP_в_Cisco)
 

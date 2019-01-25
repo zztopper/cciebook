@@ -1,8 +1,4 @@
----
-description: 'Цикл 2. Тема 12 : ACL (VACL, Port ACL)'
----
-
-# Лабораторная по теме
+# Лабораторная по теме 12
 
 {% file src="../../.gitbook/assets/lab012.zip" caption="Начальная конфигурация" %}
 

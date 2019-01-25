@@ -14,6 +14,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
 [http://goo.gl/1w4IvX](http://goo.gl/1w4IvX)  
-[http://xgu.ru/wiki/Embedded\_Event\_Manager](http://xgu.ru/wiki/Embedded_Event_Manager)  
-
+[http://xgu.ru/wiki/Embedded\_Event\_Manager](http://xgu.ru/wiki/Embedded_Event_Manager)
 

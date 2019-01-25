@@ -14,10 +14,8 @@ description: 'Цикл 3. Тема 15: Routing Protocol features'
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Introduction to Dynamic Routing
 
 Ссылка на сайт www.xgu.ru:  
-[http://xgu.ru/wiki/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F\_%D0%B2\_Cisco](http://xgu.ru/wiki/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_Cisco)
+[http://xgu.ru/wiki/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F\_%D0%B2\_Cisco](http://xgu.ru/wiki/Маршрутизация_в_Cisco)
 
 Ссылка на другие ресурсы:  
-[https://en.wikipedia.org/wiki/Route\_filtering](https://en.wikipedia.org/wiki/Route_filtering)  
-  
-
+[https://en.wikipedia.org/wiki/Route\_filtering](https://en.wikipedia.org/wiki/Route_filtering)
 

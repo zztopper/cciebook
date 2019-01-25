@@ -14,7 +14,7 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 
 Ссылка на сайт [Xgu](http://www.xgu.ru/):  
 [http://xgu.ru/wiki/IPsec](http://xgu.ru/wiki/IPsec)  
-[http://xgu.ru/wiki/IPsec\_%D0%B2\_Cisco](http://xgu.ru/wiki/IPsec_%D0%B2_Cisco)
+[http://xgu.ru/wiki/IPsec\_%D0%B2\_Cisco](http://xgu.ru/wiki/IPsec_в_Cisco)
 
 Ссылка на другие ресурсы:  
 [http://linkmeup.ru/blog/152.html](http://linkmeup.ru/blog/152.html)

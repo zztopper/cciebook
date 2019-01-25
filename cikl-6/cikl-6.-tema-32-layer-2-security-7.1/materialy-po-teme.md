@@ -13,7 +13,6 @@ CCIE Routing and Switching v5.0 Official Cert Guide Volume 2, 802.1X Authenticat
 
 Ссылка на сайт [Xgu](http://www.xgu.ru/):  
 [http://xgu.ru/wiki/802.1X](http://xgu.ru/wiki/802.1X)  
-[http://xgu.ru/wiki/802.1X\_%D0%B8\_RADIUS](http://xgu.ru/wiki/802.1X_%D0%B8_RADIUS)  
-[http://xgu.ru/wiki/802.1X\_%D0%B2\_Cisco](http://xgu.ru/wiki/802.1X_%D0%B2_Cisco)  
-
+[http://xgu.ru/wiki/802.1X\_%D0%B8\_RADIUS](http://xgu.ru/wiki/802.1X_и_RADIUS)  
+[http://xgu.ru/wiki/802.1X\_%D0%B2\_Cisco](http://xgu.ru/wiki/802.1X_в_Cisco)
 

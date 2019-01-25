@@ -15,7 +15,5 @@ www.cisco.com→support→documentation → switches → Cumpus LAN Switches —
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Chapter 2: Virtual LANs and VLAN Trunking
 
 Ссылка на сайт www.xgu.ru:  
-[http://xgu.ru/wiki/VTP](http://xgu.ru/wiki/VTP)  
-  
-
+[http://xgu.ru/wiki/VTP](http://xgu.ru/wiki/VTP)
 

@@ -2,7 +2,7 @@
 description: 'Цикл 10, Тема 58: IPsec LAN-to-LAN'
 ---
 
-# Лабораторная по теме 58 
+# Лабораторная по теме 58
 
 {% file src="../../.gitbook/assets/lab058.zip" caption="Начальная конфигурация" %}
 

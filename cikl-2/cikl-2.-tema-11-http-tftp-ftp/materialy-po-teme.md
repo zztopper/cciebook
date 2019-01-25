@@ -16,7 +16,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1
 
 Ссылка на сайт www.xgu.ru:  
 [http://xgu.ru/wiki/Cisco\_Router\#HTTP](http://xgu.ru/wiki/Cisco_Router#HTTP)  
-[http://goo.gl/WBC7QZ](http://goo.gl/WBC7QZ)  
-  
-
+[http://goo.gl/WBC7QZ](http://goo.gl/WBC7QZ)
 

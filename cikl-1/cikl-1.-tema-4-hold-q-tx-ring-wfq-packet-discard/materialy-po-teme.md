@@ -14,7 +14,7 @@ description: 'Цикл 1. Тема 4: Hold-Q, TX Ring, WFQ, Packet discard'
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 2, Part II: QoS
 
 Ссылка на сайт www.xgu.ru:  
-[http://www.xgu.ru/wiki/QoS\_%D0%B2\_Cisco](http://www.xgu.ru/wiki/QoS_%D0%B2_Cisco)
+[http://www.xgu.ru/wiki/QoS\_%D0%B2\_Cisco](http://www.xgu.ru/wiki/QoS_в_Cisco)
 
 Ссылка на другие ресурсы:  
 [http://ccieforme.blogspot.com/2010/05/ine-workbook-vol-1-qos.html](http://ccieforme.blogspot.com/2010/05/ine-workbook-vol-1-qos.html)

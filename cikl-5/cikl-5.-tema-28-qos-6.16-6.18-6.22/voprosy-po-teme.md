@@ -14,6 +14,5 @@ description: 'Цикл 5. Тема 28: QoS 6.16-6.18, 6.22'
 7. Когда, как и для чего необходимо указывать значения Bc\Be.  
 8. Описать механизмы Single-Rate и Dual-Rate Class-Based Policing  
 9. Что подразумевается в описании Policing под Two Colors, Three Colors.  
-10. Как влияет Policing на разные типы трафика?  
-
+10. Как влияет Policing на разные типы трафика?
 

@@ -14,7 +14,5 @@ www.cisco.com→support→documentation → switches → Cumpus LAN Switches —
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Chapter 1,3
 
 Ссылка на сайт www.xgu.ru:  
-[http://goo.gl/tsyunx](http://goo.gl/tsyunx)  
-  
-
+[http://goo.gl/tsyunx](http://goo.gl/tsyunx)
 

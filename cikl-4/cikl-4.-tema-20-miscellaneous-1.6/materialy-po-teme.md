@@ -15,10 +15,8 @@ Cisco.com→Documentation →Switches→ Campus LAN Switches — Access→ Catal
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, SPAN, RSPAN, and ERSPAN
 
 Ссылка на сайт [xgu.ru](http://www.xgu.ru/):  
-[Зеркалирование трафика](http://xgu.ru/wiki/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)
+[Зеркалирование трафика](http://xgu.ru/wiki/Зеркалирование_трафика)
 
 Ссылка на другие ресурсы:  
-[YouTube.com](https://www.youtube.com/watch?v=usyqr6P9F50)  
-  
-
+[YouTube.com](https://www.youtube.com/watch?v=usyqr6P9F50)
 

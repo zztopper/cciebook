@@ -16,5 +16,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2, Security
 
 Ссылка на сайт www.xgu.ru:  
-[http://xgu.ru/wiki/IPsec\_%D0%B2\_Cisco\#GRE\_.D0.B8\_IPsec](http://xgu.ru/wiki/IPsec_%D0%B2_Cisco#GRE_.D0.B8_IPsec)
+[http://xgu.ru/wiki/IPsec\_%D0%B2\_Cisco\#GRE\_.D0.B8\_IPsec](http://xgu.ru/wiki/IPsec_в_Cisco#GRE_.D0.B8_IPsec)
 

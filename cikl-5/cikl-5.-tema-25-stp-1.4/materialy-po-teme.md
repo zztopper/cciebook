@@ -14,6 +14,5 @@ Cisco.com→ Documentation → Switches → Campus LAN Switches – Access → C
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Chapter 3
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/STP](http://xgu.ru/wiki/STP)  
-
+[http://xgu.ru/wiki/STP](http://xgu.ru/wiki/STP)
 

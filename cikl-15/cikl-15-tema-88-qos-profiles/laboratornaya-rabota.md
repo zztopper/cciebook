@@ -1,8 +1,4 @@
----
-description: 'Цикл 15, Тема 88:QoS Profiles'
----
-
-# Лабораторная работа
+# Лабораторная работа 88
 
 {% file src="../../.gitbook/assets/lab088.zip" caption="Начальная конфигурация" %}
 

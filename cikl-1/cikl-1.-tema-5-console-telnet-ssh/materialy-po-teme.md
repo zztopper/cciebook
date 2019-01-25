@@ -11,7 +11,7 @@ description: 'Цикл 1. Тема 5: Console, Telnet, SSH'
 cisco.com→support→documentation → IOS and NX-OS Software → IOS → IOS Software Release 15M&T→ IOS 15.3M&T→ Configuration Guides → Security, Services, and VPN→ Securing User Services Configuration Guide Library, Cisco IOS Release 15M&T→ Secure Shell Configuration Guide, Cisco IOS Release 15M&T
 
 Ссылки на книгу/главу:  
-CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1,  Implementing Telnet Access  
+CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Implementing Telnet Access  
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Implementing SSH Access
 
 Ссылка на сайт www.xgu.ru:  

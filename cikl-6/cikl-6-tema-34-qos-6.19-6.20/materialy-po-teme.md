@@ -11,6 +11,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2 \(5th Edition\), Chapter 5
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Shaping\_.D0.B8\_Policing](http://xgu.ru/wiki/QoS_%D0%B2_Cisco#Shaping_.D0.B8_Policing)  
-
+[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Shaping\_.D0.B8\_Policing](http://xgu.ru/wiki/QoS_в_Cisco#Shaping_.D0.B8_Policing)
 

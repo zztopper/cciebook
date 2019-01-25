@@ -16,8 +16,6 @@ Cisco.com&gt;Documentation&gt; Products &gt;IOS and NX-OS SoftwareIOS&gt;IOS Sof
 Deploing QOS for cisco IP and next generation networks
 
 Ссылки:  
-[http://www.xgu.ru/wiki/QoS\_%D0%B2\_Cisco](http://www.xgu.ru/wiki/QoS_%D0%B2_Cisco)  
-[http://xgu.ru/wiki/QoS](http://xgu.ru/wiki/QoS)  
-  
-
+[http://www.xgu.ru/wiki/QoS\_%D0%B2\_Cisco](http://www.xgu.ru/wiki/QoS_в_Cisco)  
+[http://xgu.ru/wiki/QoS](http://xgu.ru/wiki/QoS)
 

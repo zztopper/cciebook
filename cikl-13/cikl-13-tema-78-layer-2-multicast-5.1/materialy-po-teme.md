@@ -15,5 +15,5 @@ description: 'Цикл 13, Тема 78: Layer 2 Multicast 5.1'
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2, Chapter 7: Introduction to IP Multicasting
 
 Ссылка на сайт [www.xgu.ru](http://www.xgu.ru/)  
-[http://xgu.ru/wiki/Multicast\_%D0%B2\_Cisco](http://xgu.ru/wiki/Multicast_%D0%B2_Cisco)
+[http://xgu.ru/wiki/Multicast\_%D0%B2\_Cisco](http://xgu.ru/wiki/Multicast_в_Cisco)
 

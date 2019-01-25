@@ -14,5 +14,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 2, Chapter 3: Classification and Marking
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#QoS\_Pre-Classification](http://xgu.ru/wiki/QoS_%D0%B2_Cisco#QoS_Pre-Classification)
+[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#QoS\_Pre-Classification](http://xgu.ru/wiki/QoS_в_Cisco#QoS_Pre-Classification)
 

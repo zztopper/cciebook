@@ -14,5 +14,5 @@ Cisco.com→ Documentation → Switches → Campus LAN Switches – Access → C
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Capter 3
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/STP\_%D0%B2\_Cisco\#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0\_MST](http://xgu.ru/wiki/STP_%D0%B2_Cisco#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0_MST)
+[http://xgu.ru/wiki/STP\_%D0%B2\_Cisco\#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0\_MST](http://xgu.ru/wiki/STP_в_Cisco#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0_MST)
 

@@ -15,7 +15,7 @@ CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Chapter 5
 
 Ссылка на сайт [Xgu](http://www.xgu.ru/):  
 [http://xgu.ru/wiki/HSRP](http://xgu.ru/wiki/HSRP)  
-[http://xgu.ru/wiki/HSRP\_%D0%B2\_Cisco](http://xgu.ru/wiki/HSRP_%D0%B2_Cisco)  
+[http://xgu.ru/wiki/HSRP\_%D0%B2\_Cisco](http://xgu.ru/wiki/HSRP_в_Cisco)  
 [http://xgu.ru/wiki/VRRP](http://xgu.ru/wiki/VRRP)  
 [http://xgu.ru/wiki/GLBP](http://xgu.ru/wiki/GLBP)
 

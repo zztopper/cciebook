@@ -9,7 +9,7 @@ description: 'Цикл 13, Тема 76: DMVPN. Single Hub, NHRP'
 [http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr\_nhrp/configuration/15-mt/nhrp-15-mt-book/config-nhrp.html](http://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipaddr_nhrp/configuration/15-mt/nhrp-15-mt-book/config-nhrp.html)
 
 Как найти документ:  
-****Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&T→ IOS 15.5M&T → Configuration Guides →Secure Connectivity Configuration Guide Library, Cisco IOS Release 15M&T →Dynamic Multipoint VPN
+_\*\*_Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&T→ IOS 15.5M&T → Configuration Guides →Secure Connectivity Configuration Guide Library, Cisco IOS Release 15M&T →Dynamic Multipoint VPN
 
 Ссылки на книгу/главу:  
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2 \(5th Edition\),Chapter 9: Device and Network Security

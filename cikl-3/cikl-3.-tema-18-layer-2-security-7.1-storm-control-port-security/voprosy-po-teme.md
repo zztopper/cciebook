@@ -16,6 +16,5 @@ description: 'Цикл 3. Тема 18: Layer 2 Security 7.1, Storm Control, Port
 9. Дать характеристику error disable режиму порта.  
 10. Какие проблемы могут возникнуть при настройке port-security на маршрутизаторах \(HSRP, VRRP, GLBP\)? Как их избежать?  
 11. Дать характеристику для Storm Control.  
-12. Какая команда используется для настройки Storm Control?  
-
+12. Какая команда используется для настройки Storm Control?
 

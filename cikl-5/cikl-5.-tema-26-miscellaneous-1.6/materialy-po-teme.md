@@ -12,6 +12,5 @@ description: 'Цикл 5. Тема 26: Miscellaneous 1.6'
 
 Как найти документ:  
 Cisco.com→ Documentation → Switches → Campus LAN Switches – Access → Catalyst 3560-X Series Switches → Configuration Guides→ Software Configuration Guide, Cisco IOS Release 15.2\(2\)E \(Catalyst 3750-X and 3560-X Switches\)→ Configuring Fallback Bridging  
-Cisco.com→ Documentation → Switches → Campus LAN Switches – Access → Catalyst 3560-X Series Switches → Configuration Guides→ Software Configuration Guide, Cisco IOS Release 15.2\(2\)E \(Catalyst 3750-X and 3560-X Switches\)→ Configuring Voice VLANs  
-
+Cisco.com→ Documentation → Switches → Campus LAN Switches – Access → Catalyst 3560-X Series Switches → Configuration Guides→ Software Configuration Guide, Cisco IOS Release 15.2\(2\)E \(Catalyst 3750-X and 3560-X Switches\)→ Configuring Voice VLANs
 

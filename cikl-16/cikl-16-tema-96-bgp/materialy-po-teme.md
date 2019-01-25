@@ -14,5 +14,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 TCP/IP, Volume II: CCIE Professional Development, 2nd Edition, Chapter 5 Scaling BGP
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/BGP\_%D0%B2\_Cisco](http://xgu.ru/wiki/BGP_%D0%B2_Cisco)
+[http://xgu.ru/wiki/BGP\_%D0%B2\_Cisco](http://xgu.ru/wiki/BGP_в_Cisco)
 

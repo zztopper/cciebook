@@ -15,6 +15,6 @@ description: 'Цикл 14, Тема 79: OSPF 3.6'
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Chapter 9: OSPF
 
 Ссылка на сайт [www.xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco\#Stub\_router](http://xgu.ru/wiki/OSPF_%D0%B2_Cisco#Stub_router)  
+[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco\#Stub\_router](http://xgu.ru/wiki/OSPF_в_Cisco#Stub_router)  
 [http://xgu.ru/wiki/OSPF\#.D0.97.D0.BE.D0.BD.D1.8B\_OSPF](http://xgu.ru/wiki/OSPF#.D0.97.D0.BE.D0.BD.D1.8B_OSPF)
 

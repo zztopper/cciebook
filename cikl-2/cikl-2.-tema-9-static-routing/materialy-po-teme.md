@@ -15,7 +15,5 @@ www.cisco.com→support→documentation → IOS and NX-OS Software→IOS→IOS S
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Chapter 6
 
 Ссылка на сайт www.xgu.ru:  
-[http://goo.gl/2Dnn0i](http://goo.gl/2Dnn0i)  
-  
-
+[http://goo.gl/2Dnn0i](http://goo.gl/2Dnn0i)
 

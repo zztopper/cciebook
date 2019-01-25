@@ -18,6 +18,6 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Chapter 9: OSPF
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco\#Fast\_Hello](http://xgu.ru/wiki/OSPF_%D0%B2_Cisco#Fast_Hello)  
-[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco](http://xgu.ru/wiki/OSPF_%D0%B2_Cisco)
+[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco\#Fast\_Hello](http://xgu.ru/wiki/OSPF_в_Cisco#Fast_Hello)  
+[http://xgu.ru/wiki/OSPF\_%D0%B2\_Cisco](http://xgu.ru/wiki/OSPF_в_Cisco)
 

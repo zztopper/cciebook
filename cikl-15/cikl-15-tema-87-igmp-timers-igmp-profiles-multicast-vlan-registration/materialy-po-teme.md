@@ -15,5 +15,5 @@ Support Home → Documentation → Switches → Cumpus LAN Switches — Access �
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2 \(5th Edition\), Chapter 7: Introduction to IP Multicasting
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/Multicast\_%D0%B2\_Cisco](http://xgu.ru/wiki/Multicast_%D0%B2_Cisco)
+[http://xgu.ru/wiki/Multicast\_%D0%B2\_Cisco](http://xgu.ru/wiki/Multicast_в_Cisco)
 

@@ -1,4 +1,4 @@
-# Проверка лабораторной
+# Проверка лабораторной 2
 
 {% file src="../.gitbook/assets/biglab002\_answers.zip" caption="Конечная конфигурация" %}
 

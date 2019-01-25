@@ -18,7 +18,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide Volume 2, Storm Control
 [http://xgu.ru/wiki/Port\_security\#Port\_security\_.D0.BD.D0.B0\_.D0.BA.D0.BE.D0.BC.D0.BC.D1.83.D1.82.D0.B0.D1.82.D0.BE.D1.80.D0.B0.D1.85\_Cisco](http://xgu.ru/wiki/Port_security#Port_security_.D0.BD.D0.B0_.D0.BA.D0.BE.D0.BC.D0.BC.D1.83.D1.82.D0.B0.D1.82.D0.BE.D1.80.D0.B0.D1.85_Cisco)
 
 Ссылки на другие ресурсы:  
-[https://cciesecblog.com/2013/12/04/switch-port-security/](https://cciesecblog.com/2013/12/04/switch-port-security/)  
-  
-
+[https://cciesecblog.com/2013/12/04/switch-port-security/](https://cciesecblog.com/2013/12/04/switch-port-security/)
 

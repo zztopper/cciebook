@@ -13,7 +13,5 @@ description: 'Цикл 5. Тема 28: QoS 6.16-6.18, 6.22'
 2. Deploying QOS for cisco IP and next generation networks, Traffic Policing
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Shaping\_.D0.B8\_Policing](http://xgu.ru/wiki/QoS_%D0%B2_Cisco#Shaping_.D0.B8_Policing)  
-  
-
+[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Shaping\_.D0.B8\_Policing](http://xgu.ru/wiki/QoS_в_Cisco#Shaping_.D0.B8_Policing)
 

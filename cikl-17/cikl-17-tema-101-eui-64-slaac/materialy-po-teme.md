@@ -15,5 +15,5 @@ Routing TCP/IP, Volume II \(CCIE Professional Development\), Chapter 2: IPv6 Ove
 
 Ссылки на сайт xgu.ru:  
 [http://xgu.ru/wiki/IPv6](http://xgu.ru/wiki/IPv6)  
-[http://xgu.ru/wiki/IPv6\_%D0%B2\_Cisco](http://xgu.ru/wiki/IPv6_%D0%B2_Cisco)
+[http://xgu.ru/wiki/IPv6\_%D0%B2\_Cisco](http://xgu.ru/wiki/IPv6_в_Cisco)
 

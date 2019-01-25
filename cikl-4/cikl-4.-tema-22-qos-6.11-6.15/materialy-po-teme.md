@@ -15,10 +15,9 @@ Support Home→ProductsIOS and NX-OS SoftwareIOSI→OS Software Release 15M&T→
 Cisco Press — DQOS Exam Certification Guide . Chapter 6: Congestion Avoidance Through Drop Policies
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Weighted\_Random\_Early\_Detection\_.28WRED.29](http://xgu.ru/wiki/QoS_%D0%B2_Cisco#Weighted_Random_Early_Detection_.28WRED.29)
+[http://xgu.ru/wiki/QoS\_%D0%B2\_Cisco\#Weighted\_Random\_Early\_Detection\_.28WRED.29](http://xgu.ru/wiki/QoS_в_Cisco#Weighted_Random_Early_Detection_.28WRED.29)
 
 Ссылка на другие ресурсы:  
 [https://www.youtube.com/watch?v=JPbJ8ne2HNY](https://www.youtube.com/watch?v=JPbJ8ne2HNY)  
-[https://www.youtube.com/watch?v=B3339beB6Aw](https://www.youtube.com/watch?v=B3339beB6Aw)  
-
+[https://www.youtube.com/watch?v=B3339beB6Aw](https://www.youtube.com/watch?v=B3339beB6Aw)
 

@@ -17,6 +17,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Chapter 5: IP Serv
 
 Ссылка на сайт [Xgu.ru](http://www.xgu.ru/):  
 [http://xgu.ru/wiki/Cisco\_IP\_SLA](http://xgu.ru/wiki/Cisco_IP_SLA)  
-[http://xgu.ru/wiki/Cisco\_Enhanced\_Object\_Tracking](http://xgu.ru/wiki/Cisco_Enhanced_Object_Tracking)  
-
+[http://xgu.ru/wiki/Cisco\_Enhanced\_Object\_Tracking](http://xgu.ru/wiki/Cisco_Enhanced_Object_Tracking)
 

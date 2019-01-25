@@ -14,5 +14,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide, Volume 2, Chapter 8: IP Multicast Routing
 
 Ссылки на сайт xgu.ru:  
-[http://xgu.ru/wiki/PIM\_%D0%B2\_Cisco\#PIM\_Sparse\_Mode\_.28PIM-SM.29](http://xgu.ru/wiki/PIM_%D0%B2_Cisco#PIM_Sparse_Mode_.28PIM-SM.29)
+[http://xgu.ru/wiki/PIM\_%D0%B2\_Cisco\#PIM\_Sparse\_Mode\_.28PIM-SM.29](http://xgu.ru/wiki/PIM_в_Cisco#PIM_Sparse_Mode_.28PIM-SM.29)
 

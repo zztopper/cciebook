@@ -16,7 +16,5 @@ Support Home → ProductsIOS and NX-OS SoftwareIOS → IOS Software Release 15M&
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 1, Chapter 7 RIPv2 and RIPng
 
 Ссылка на сайт [www.xgu.ru](http://www.xgu.ru/):  
-[http://xgu.ru/wiki/RIP](http://xgu.ru/wiki/RIP)  
-  
-
+[http://xgu.ru/wiki/RIP](http://xgu.ru/wiki/RIP)
 

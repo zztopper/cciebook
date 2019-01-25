@@ -11,6 +11,5 @@ description: 'Цикл 4. Тема 24: Layer 2 Security 7.1'
 4. Опишите атаку ARP-spoofing.  
 5. На чем основывается принцип работы Dynamic ARP Inspection?  
 6. Что позволяет сделать команда rate limit и для чего она нужна?  
-7. Дать описание атаки IP-spoofing.  
-
+7. Дать описание атаки IP-spoofing.
 

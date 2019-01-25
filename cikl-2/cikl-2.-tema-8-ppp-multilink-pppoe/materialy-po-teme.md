@@ -20,7 +20,5 @@ CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, Configuring PPPoE
 CCIE Routing and Switching v5.0 Official Cert Guide Volume 2, PPPoE
 
 Ссылка на другие ресурсы:  
-[https://www.youtube.com/watch?v=T3lQ6McU-Ps](https://www.youtube.com/watch?v=T3lQ6McU-Ps)  
-  
-
+[https://www.youtube.com/watch?v=T3lQ6McU-Ps](https://www.youtube.com/watch?v=T3lQ6McU-Ps)
 
